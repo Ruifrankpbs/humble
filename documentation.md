@@ -129,3 +129,5 @@ Perceberemos que nosso controller padrão mudou;
 O resultado no navegador será:
 
 <img src="img\controllerpadrao.png">
+
+# Adicionando o Plugin ION AUTH
